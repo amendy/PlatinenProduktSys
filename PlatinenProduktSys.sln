@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.645
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PlatinenProduktSys", "PlatinenProduktSys\PlatinenProduktSys.vcxproj", "{504673B3-0A09-46D0-BBEE-645FD7649956}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{504673B3-0A09-46D0-BBEE-645FD7649956}.Debug|x64.ActiveCfg = Debug|x64
+		{504673B3-0A09-46D0-BBEE-645FD7649956}.Debug|x64.Build.0 = Debug|x64
+		{504673B3-0A09-46D0-BBEE-645FD7649956}.Debug|x86.ActiveCfg = Debug|Win32
+		{504673B3-0A09-46D0-BBEE-645FD7649956}.Debug|x86.Build.0 = Debug|Win32
+		{504673B3-0A09-46D0-BBEE-645FD7649956}.Release|x64.ActiveCfg = Release|x64
+		{504673B3-0A09-46D0-BBEE-645FD7649956}.Release|x64.Build.0 = Release|x64
+		{504673B3-0A09-46D0-BBEE-645FD7649956}.Release|x86.ActiveCfg = Release|Win32
+		{504673B3-0A09-46D0-BBEE-645FD7649956}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FB101F62-397B-4604-8A07-4CD2D12B9FAD}
+	EndGlobalSection
+EndGlobal
